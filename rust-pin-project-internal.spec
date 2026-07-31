@@ -6,8 +6,8 @@
 %global crate pin-project-internal
 
 Name:           rust-%{crate}
-Version:        0.4.8
-Release:        2%{?dist}
+Version:        1.1.13
+Release:        1%{?dist}
 Summary:        Internal crate to support pin_project - do not use directly
 
 # Upstream license specification: Apache-2.0 OR MIT
